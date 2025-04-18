@@ -9,50 +9,53 @@ DOMAIN,loacl2.emby.moe,📺 emby
 DOMAIN,loacl.emby.moe,📺 emby
 DOMAIN,iris.niceduck.lol,📺 emby
 DOMAIN,cf.irisnb.com,📺 emby
+DOMAIN-SUFFIX,niceduck.lol,📺 emby
+DOMAIN-SUFFIX,emby.moe,📺 emby
+DOMAIN-SUFFIX,irisnb.com,📺 emby
 
 
 DOMAIN-KEYWORD,jav
-DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,jable.tv,📺 emby
 
 # BlueSeaMusics 音乐服
-DOMAIN-SUFFIX,blueseamusics.com
+DOMAIN-SUFFIX,blueseamusics.com,📺 emby
 
 # 1、MisakaF :8096 :443
-DOMAIN,4837.misakaf.org
-DOMAIN,cf.misakaf.org
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN,4837.misakaf.org,📺 emby
+DOMAIN,cf.misakaf.org,📺 emby
+DOMAIN-SUFFIX,misakaf.org,📺 emby
 
 # 2、Pornemby :443
-DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,pornemby.club,📺 emby
 
 # 3、NakoNako :443
-DOMAIN-SUFFIX,nakonako.net
-IP-CIDR,95.217.228.36/32,no-resolve
+DOMAIN-SUFFIX,nakonako.net,📺 emby
+IP-CIDR,95.217.228.36/32,no-resolve,📺 emby
 
 # 4、Cc :8096 (电信用日本节点最好)
-DOMAIN,emby.jiasu.ga
-DOMAIN-SUFFIX,jiasu.ga
+DOMAIN,emby.jiasu.ga,📺 emby
+DOMAIN-SUFFIX,jiasu.ga,📺 emby
 
 # 5、佛系 :8018
-DOMAIN-SUFFIX,4545.cf
+DOMAIN-SUFFIX,4545.cf,📺 emby
 
 # 6、peach :8096 :8920 (新加坡或者香港节点)
-DOMAIN,embymv.tk
-DOMAIN-SUFFIX,embymv.tk
+DOMAIN,embymv.tk,📺 emby
+DOMAIN-SUFFIX,embymv.tk,📺 emby
 
 # 7、🐻 猫熊影业 屏蔽 美国 大陆 台湾等访问 端口 443/8096 1、高可用 http :10789 2、🇺🇸美國01 https :443
 DOMAIN,ha.emby.kim
-IP-CIDR,124.71.82.223/32,no-resolve
-IP-CIDR,13.212.197.34/32,no-resolve
-IP-CIDR,152.70.87.247/32,no-resolve
-IP-CIDR,139.162.122.134/32,no-resolve
+IP-CIDR,124.71.82.223/32,no-resolve,📺 embyv
+IP-CIDR,13.212.197.34/32,no-resolve,📺 emby
+IP-CIDR,152.70.87.247/32,no-resolve,📺 emby
+IP-CIDR,139.162.122.134/32,no-resolve,📺 emby
 DOMAIN-SUFFIX,emby.kim
 
 # 8、Orange🍊公益服
-DOMAIN,emby.52.al
+DOMAIN,emby.52.al,📺 emby
 
 # 9、终点站 :443
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN-SUFFIX,emby.wtf
+DOMAIN,pub1.emby.wtf,📺 emby
+DOMAIN,pub2.emby.wtf,📺 emby
+DOMAIN,pub3.emby.wtf,📺 emby
+DOMAIN-SUFFIX,emby.wtf,📺 emby
